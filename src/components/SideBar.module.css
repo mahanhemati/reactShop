@@ -1,0 +1,18 @@
+.title{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    color: rgb(254, 93, 66);
+    font-weight: 500;
+}
+li{
+    cursor: pointer;
+    list-style: none;
+    padding: 5px;
+}
+.selected{
+    background-color: #f7753d49;
+    color: #fe5d42;
+    border-radius: 10px;
+}
